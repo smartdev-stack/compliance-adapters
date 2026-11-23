@@ -5,6 +5,19 @@ updates:
     schedule:
       interval: "weekly"
     open-pull-requests-limit: 10
+    groups:
+      stellar:
+        patterns:
+          - "@stellar/*"
+      dev-tooling:
+        patterns:
+          - "jest"
+          - "ts-jest"
+          - "@types/jest"
+          - "typescript"
+          - "eslint"
+          - "eslint-*"
+          - "@typescript-eslint/*"
     labels:
       - "dependencies"
       - "automerge"
@@ -14,6 +27,19 @@ updates:
     schedule:
       interval: "weekly"
     open-pull-requests-limit: 10
+    groups:
+      stellar:
+        patterns:
+          - "@stellar/*"
+      dev-tooling:
+        patterns:
+          - "jest"
+          - "ts-jest"
+          - "@types/jest"
+          - "typescript"
+          - "eslint"
+          - "eslint-*"
+          - "@typescript-eslint/*"
     labels:
       - "dependencies"
       - "automerge"
@@ -23,6 +49,19 @@ updates:
     schedule:
       interval: "weekly"
     open-pull-requests-limit: 10
+    groups:
+      stellar:
+        patterns:
+          - "@stellar/*"
+      dev-tooling:
+        patterns:
+          - "jest"
+          - "ts-jest"
+          - "@types/jest"
+          - "typescript"
+          - "eslint"
+          - "eslint-*"
+          - "@typescript-eslint/*"
     labels:
       - "dependencies"
       - "automerge"
@@ -32,6 +71,19 @@ updates:
     schedule:
       interval: "weekly"
     open-pull-requests-limit: 10
+    groups:
+      stellar:
+        patterns:
+          - "@stellar/*"
+      dev-tooling:
+        patterns:
+          - "jest"
+          - "ts-jest"
+          - "@types/jest"
+          - "typescript"
+          - "eslint"
+          - "eslint-*"
+          - "@typescript-eslint/*"
     labels:
       - "dependencies"
       - "automerge"
@@ -41,6 +93,19 @@ updates:
     schedule:
       interval: "weekly"
     open-pull-requests-limit: 10
+    groups:
+      stellar:
+        patterns:
+          - "@stellar/*"
+      dev-tooling:
+        patterns:
+          - "jest"
+          - "ts-jest"
+          - "@types/jest"
+          - "typescript"
+          - "eslint"
+          - "eslint-*"
+          - "@typescript-eslint/*"
     labels:
       - "dependencies"
       - "automerge"
@@ -50,6 +115,19 @@ updates:
     schedule:
       interval: "weekly"
     open-pull-requests-limit: 10
+    groups:
+      stellar:
+        patterns:
+          - "@stellar/*"
+      dev-tooling:
+        patterns:
+          - "jest"
+          - "ts-jest"
+          - "@types/jest"
+          - "typescript"
+          - "eslint"
+          - "eslint-*"
+          - "@typescript-eslint/*"
     labels:
       - "dependencies"
       - "automerge"
@@ -59,6 +137,19 @@ updates:
     schedule:
       interval: "weekly"
     open-pull-requests-limit: 10
+    groups:
+      stellar:
+        patterns:
+          - "@stellar/*"
+      dev-tooling:
+        patterns:
+          - "jest"
+          - "ts-jest"
+          - "@types/jest"
+          - "typescript"
+          - "eslint"
+          - "eslint-*"
+          - "@typescript-eslint/*"
     labels:
       - "dependencies"
       - "automerge"
@@ -68,6 +159,19 @@ updates:
     schedule:
       interval: "weekly"
     open-pull-requests-limit: 10
+    groups:
+      stellar:
+        patterns:
+          - "@stellar/*"
+      dev-tooling:
+        patterns:
+          - "jest"
+          - "ts-jest"
+          - "@types/jest"
+          - "typescript"
+          - "eslint"
+          - "eslint-*"
+          - "@typescript-eslint/*"
     labels:
       - "dependencies"
       - "automerge"
@@ -77,6 +181,19 @@ updates:
     schedule:
       interval: "weekly"
     open-pull-requests-limit: 10
+    groups:
+      stellar:
+        patterns:
+          - "@stellar/*"
+      dev-tooling:
+        patterns:
+          - "jest"
+          - "ts-jest"
+          - "@types/jest"
+          - "typescript"
+          - "eslint"
+          - "eslint-*"
+          - "@typescript-eslint/*"
     labels:
       - "dependencies"
       - "automerge"
@@ -86,6 +203,19 @@ updates:
     schedule:
       interval: "weekly"
     open-pull-requests-limit: 10
+    groups:
+      stellar:
+        patterns:
+          - "@stellar/*"
+      dev-tooling:
+        patterns:
+          - "jest"
+          - "ts-jest"
+          - "@types/jest"
+          - "typescript"
+          - "eslint"
+          - "eslint-*"
+          - "@typescript-eslint/*"
     labels:
       - "dependencies"
       - "automerge"
@@ -95,6 +225,19 @@ updates:
     schedule:
       interval: "weekly"
     open-pull-requests-limit: 10
+    groups:
+      stellar:
+        patterns:
+          - "@stellar/*"
+      dev-tooling:
+        patterns:
+          - "jest"
+          - "ts-jest"
+          - "@types/jest"
+          - "typescript"
+          - "eslint"
+          - "eslint-*"
+          - "@typescript-eslint/*"
     labels:
       - "dependencies"
       - "automerge"
